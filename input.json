@@ -1,0 +1,1046 @@
+{
+    "_id": {
+      "$oid": "65cb19bb0e338ad921d6d35b"
+    },
+    "data": {
+      "itcsumm": {
+        "itcavl": {
+          "nonrevsup": {
+            "sgst": 10634.5,
+            "b2b": {
+              "sgst": 10634.5,
+              "cgst": 10634.5,
+              "cess": 0,
+              "igst": 269541.02
+            },
+            "cgst": 10634.5,
+            "cess": 0,
+            "igst": 269541.02
+          }
+        }
+      },
+      "rtnprd": "042023",
+      "docdata": {
+        "b2b": [
+          {
+            "inv": [
+              {
+                "dt": "30-04-2023",
+                "val": 170.75,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "pos": "29",
+                "typ": "R",
+                "inum": "B74NK5TPVFKA04Y2",
+                "rsn": "",
+                "items": [
+                  {
+                    "sgst": 0,
+                    "rt": 5,
+                    "num": 1,
+                    "txval": 162.62,
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 8.13
+                  }
+                ]
+              }
+            ],
+            "trdnm": "ANI TECHNOLOGIES PRIVATE LIMITED",
+            "supfildt": "11-05-2023",
+            "supprd": "042023",
+            "ctin": "37AAJCA1389G1ZI"
+          },
+          {
+            "inv": [
+              {
+                "val": 2790.18,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "irn": "52fb8cf7cbbb380c1465f23ed34b6ea901656b2fb1383c35068a4da530440e4b",
+                "typ": "R",
+                "irngendate": "12-04-2023",
+                "inum": "CBLR24/019000422",
+                "rsn": "",
+                "dt": "12-04-2023",
+                "pos": "29",
+                "srctyp": "E-Invoice",
+                "items": [
+                  {
+                    "sgst": 149.47,
+                    "rt": 12,
+                    "num": 1,
+                    "txval": 2491.24,
+                    "cgst": 149.47,
+                    "igst": 0
+                  },
+                  {
+                    "sgst": 0,
+                    "rt": 0,
+                    "num": 2,
+                    "txval": 0,
+                    "cgst": 0,
+                    "igst": 0
+                  }
+                ]
+              },
+              {
+                "val": 2969.85,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "irn": "0ade472814b2a767315208d3899d598d90bae4110b51b75bcd052f191c0dff9c",
+                "typ": "R",
+                "irngendate": "17-04-2023",
+                "inum": "CBLR24/019000737",
+                "rsn": "",
+                "dt": "17-04-2023",
+                "pos": "29",
+                "srctyp": "E-Invoice",
+                "items": [
+                  {
+                    "sgst": 159.1,
+                    "rt": 12,
+                    "num": 1,
+                    "txval": 2651.65,
+                    "cgst": 159.1,
+                    "igst": 0
+                  },
+                  {
+                    "sgst": 0,
+                    "rt": 0,
+                    "num": 2,
+                    "txval": 0,
+                    "cgst": 0,
+                    "igst": 0
+                  }
+                ]
+              },
+              {
+                "val": 2834.16,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "irn": "db3ac4387cecb8348694083e54d27b504588357467332c2ae27724ab03cf2432",
+                "typ": "R",
+                "irngendate": "17-04-2023",
+                "inum": "CBLR24/019000738",
+                "rsn": "",
+                "dt": "17-04-2023",
+                "pos": "29",
+                "srctyp": "E-Invoice",
+                "items": [
+                  {
+                    "sgst": 151.83,
+                    "rt": 12,
+                    "num": 1,
+                    "txval": 2530.5,
+                    "cgst": 151.83,
+                    "igst": 0
+                  },
+                  {
+                    "sgst": 0,
+                    "rt": 0,
+                    "num": 2,
+                    "txval": 0,
+                    "cgst": 0,
+                    "igst": 0
+                  }
+                ]
+              },
+              {
+                "val": 3537.64,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "irn": "11348c789c5a31078bfb8366acbb5f286b04f815c8f3e3e7561ef2c38bab14a4",
+                "typ": "R",
+                "irngendate": "17-04-2023",
+                "inum": "CBLR24/019000739",
+                "rsn": "",
+                "dt": "17-04-2023",
+                "pos": "29",
+                "srctyp": "E-Invoice",
+                "items": [
+                  {
+                    "sgst": 189.52,
+                    "rt": 12,
+                    "num": 1,
+                    "txval": 3158.6,
+                    "cgst": 189.52,
+                    "igst": 0
+                  },
+                  {
+                    "sgst": 0,
+                    "rt": 0,
+                    "num": 2,
+                    "txval": 0,
+                    "cgst": 0,
+                    "igst": 0
+                  }
+                ]
+              },
+              {
+                "val": 1923.06,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "irn": "8de8ca8fb339070669c019c586c7a9549a944c0e1bdfb57b868993c4dcce93d1",
+                "typ": "R",
+                "irngendate": "18-04-2023",
+                "inum": "CBLR24/019000934",
+                "rsn": "",
+                "dt": "18-04-2023",
+                "pos": "29",
+                "srctyp": "E-Invoice",
+                "items": [
+                  {
+                    "sgst": 103.02,
+                    "rt": 12,
+                    "num": 1,
+                    "txval": 1717.02,
+                    "cgst": 103.02,
+                    "igst": 0
+                  },
+                  {
+                    "sgst": 0,
+                    "rt": 0,
+                    "num": 2,
+                    "txval": 0,
+                    "cgst": 0,
+                    "igst": 0
+                  }
+                ]
+              },
+              {
+                "val": 5683.44,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "irn": "90c518b16c78b99ce96c6e8a578c65a07a80323e73ed6f61dde7056da0f5e2df",
+                "typ": "R",
+                "irngendate": "24-04-2023",
+                "inum": "CBLR24/019001410",
+                "rsn": "",
+                "dt": "24-04-2023",
+                "pos": "29",
+                "srctyp": "E-Invoice",
+                "items": [
+                  {
+                    "sgst": 304.47,
+                    "rt": 12,
+                    "num": 1,
+                    "txval": 5074.5,
+                    "cgst": 304.47,
+                    "igst": 0
+                  },
+                  {
+                    "sgst": 0,
+                    "rt": 0,
+                    "num": 2,
+                    "txval": 0,
+                    "cgst": 0,
+                    "igst": 0
+                  }
+                ]
+              },
+              {
+                "val": 3414.44,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "irn": "6d9064875af6222832dc4d330bf38b18514a9f90fa909e51c767438e4674b1ca",
+                "typ": "R",
+                "irngendate": "01-05-2023",
+                "inum": "CBLR24/019002342",
+                "rsn": "",
+                "dt": "30-04-2023",
+                "pos": "29",
+                "srctyp": "E-Invoice",
+                "items": [
+                  {
+                    "sgst": 182.92,
+                    "rt": 12,
+                    "num": 1,
+                    "txval": 3048.6,
+                    "cgst": 182.92,
+                    "igst": 0
+                  },
+                  {
+                    "sgst": 0,
+                    "rt": 0,
+                    "num": 2,
+                    "txval": 0,
+                    "cgst": 0,
+                    "igst": 0
+                  }
+                ]
+              },
+              {
+                "val": 3347.24,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "irn": "29003eb5f716237e7683eb01c36e631cd4bb0e0caee830de3c33ebc8c9299610",
+                "typ": "R",
+                "irngendate": "01-05-2023",
+                "inum": "CBLR24/019002468",
+                "rsn": "",
+                "dt": "30-04-2023",
+                "pos": "29",
+                "srctyp": "E-Invoice",
+                "items": [
+                  {
+                    "sgst": 179.32,
+                    "rt": 12,
+                    "num": 1,
+                    "txval": 2988.6,
+                    "cgst": 179.32,
+                    "igst": 0
+                  },
+                  {
+                    "sgst": 0,
+                    "rt": 0,
+                    "num": 2,
+                    "txval": 0,
+                    "cgst": 0,
+                    "igst": 0
+                  }
+                ]
+              },
+              {
+                "val": 2010.18,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "irn": "1975beb6743cf88acd3cf9ba9cc75d7d573afe1e2a966f30a94d93da4e523297",
+                "typ": "R",
+                "irngendate": "02-05-2023",
+                "inum": "CBLR24/019002611",
+                "rsn": "",
+                "dt": "30-04-2023",
+                "pos": "29",
+                "srctyp": "E-Invoice",
+                "items": [
+                  {
+                    "sgst": 107.69,
+                    "rt": 12,
+                    "num": 1,
+                    "txval": 1794.8,
+                    "cgst": 107.69,
+                    "igst": 0
+                  },
+                  {
+                    "sgst": 0,
+                    "rt": 0,
+                    "num": 2,
+                    "txval": 0,
+                    "cgst": 0,
+                    "igst": 0
+                  }
+                ]
+              },
+              {
+                "val": 3448.04,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "irn": "8800de712386e6cb195f58681d9c57a0515d4508e1a4367508342038fda5aaea",
+                "typ": "R",
+                "irngendate": "02-05-2023",
+                "inum": "CBLR24/019002704",
+                "rsn": "",
+                "dt": "30-04-2023",
+                "pos": "29",
+                "srctyp": "E-Invoice",
+                "items": [
+                  {
+                    "sgst": 184.72,
+                    "rt": 12,
+                    "num": 1,
+                    "txval": 3078.6,
+                    "cgst": 184.72,
+                    "igst": 0
+                  },
+                  {
+                    "sgst": 0,
+                    "rt": 0,
+                    "num": 2,
+                    "txval": 0,
+                    "cgst": 0,
+                    "igst": 0
+                  }
+                ]
+              },
+              {
+                "val": 3347.24,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "irn": "5f92416f2ee443e4e58f261a8a7bca72777cd668a4f727f278ccd5bf6e609eee",
+                "typ": "R",
+                "irngendate": "02-05-2023",
+                "inum": "CBLR24/019002816",
+                "rsn": "",
+                "dt": "30-04-2023",
+                "pos": "29",
+                "srctyp": "E-Invoice",
+                "items": [
+                  {
+                    "sgst": 179.32,
+                    "rt": 12,
+                    "num": 1,
+                    "txval": 2988.6,
+                    "cgst": 179.32,
+                    "igst": 0
+                  },
+                  {
+                    "sgst": 0,
+                    "rt": 0,
+                    "num": 2,
+                    "txval": 0,
+                    "cgst": 0,
+                    "igst": 0
+                  }
+                ]
+              },
+              {
+                "val": 2846.65,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "irn": "338f4a5ce466ee900f8fe66b97beeda9df6c49b4c73e8e0ecd4da0d1d0f59b58",
+                "typ": "R",
+                "irngendate": "02-05-2023",
+                "inum": "CBLR24/019002892",
+                "rsn": "",
+                "dt": "30-04-2023",
+                "pos": "29",
+                "srctyp": "E-Invoice",
+                "items": [
+                  {
+                    "sgst": 152.5,
+                    "rt": 12,
+                    "num": 1,
+                    "txval": 2541.65,
+                    "cgst": 152.5,
+                    "igst": 0
+                  },
+                  {
+                    "sgst": 0,
+                    "rt": 0,
+                    "num": 2,
+                    "txval": 0,
+                    "cgst": 0,
+                    "igst": 0
+                  }
+                ]
+              },
+              {
+                "val": 2846.65,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "irn": "138a2cd56ed45818552bc2c39743aea34f0a2174b97542738aad76759c953597",
+                "typ": "R",
+                "irngendate": "04-05-2023",
+                "inum": "CBLR24/019003152",
+                "rsn": "",
+                "dt": "30-04-2023",
+                "pos": "29",
+                "srctyp": "E-Invoice",
+                "items": [
+                  {
+                    "sgst": 152.5,
+                    "rt": 12,
+                    "num": 1,
+                    "txval": 2541.65,
+                    "cgst": 152.5,
+                    "igst": 0
+                  },
+                  {
+                    "sgst": 0,
+                    "rt": 0,
+                    "num": 2,
+                    "txval": 0,
+                    "cgst": 0,
+                    "igst": 0
+                  }
+                ]
+              },
+              {
+                "val": 21461.17,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "irn": "2caab9a67194c40b0ff9ac25a4717e94f86ae3ca988e8d9f837f942417c54c97",
+                "typ": "R",
+                "irngendate": "18-04-2023",
+                "inum": "CIKN24/024000011",
+                "rsn": "",
+                "dt": "18-04-2023",
+                "pos": "29",
+                "srctyp": "E-Invoice",
+                "items": [
+                  {
+                    "sgst": 1149.7,
+                    "rt": 12,
+                    "num": 1,
+                    "txval": 19161.75,
+                    "cgst": 1149.7,
+                    "igst": 0
+                  },
+                  {
+                    "sgst": 0,
+                    "rt": 0,
+                    "num": 2,
+                    "txval": 0,
+                    "cgst": 0,
+                    "igst": 0
+                  }
+                ]
+              },
+              {
+                "val": 10350.03,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "irn": "e64fb9fa8e8e5e662df4d105588aef88ed9edf8767c1211f9ab79ecb66ca1f4a",
+                "typ": "R",
+                "irngendate": "02-05-2023",
+                "inum": "CIKN24/024000019",
+                "rsn": "",
+                "dt": "30-04-2023",
+                "pos": "29",
+                "srctyp": "E-Invoice",
+                "items": [
+                  {
+                    "sgst": 554.47,
+                    "rt": 12,
+                    "num": 1,
+                    "txval": 9241.09,
+                    "cgst": 554.47,
+                    "igst": 0
+                  },
+                  {
+                    "sgst": 0,
+                    "rt": 0,
+                    "num": 2,
+                    "txval": 0,
+                    "cgst": 0,
+                    "igst": 0
+                  }
+                ]
+              }
+            ],
+            "trdnm": "ORIX AUTO INFRASTRUCTURE SERVICES LIMITED",
+            "supfildt": "11-05-2023",
+            "supprd": "042023",
+            "ctin": "29AAACO2563P1ZX"
+          },
+          {
+            "inv": [
+              {
+                "val": 5025.3,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "irn": "23e659073ecee8ad0953dae45a4575a2f8f847c8d61caa2ff30d1bd8b3c55b1f",
+                "typ": "R",
+                "irngendate": "18-04-2023",
+                "inum": "BEBLR-0423-1080",
+                "rsn": "",
+                "dt": "17-04-2023",
+                "pos": "29",
+                "srctyp": "E-Invoice",
+                "items": [
+                  {
+                    "sgst": 119.66,
+                    "rt": 5,
+                    "num": 1,
+                    "txval": 4786,
+                    "cgst": 119.66,
+                    "cess": 0,
+                    "igst": 0
+                  }
+                ]
+              }
+            ],
+            "trdnm": "BERGGRUEN CAR RENTALS PRIVATE LIMITED",
+            "supfildt": "11-05-2023",
+            "supprd": "042023",
+            "ctin": "29AADCB1335P1ZF"
+          },
+          {
+            "inv": [
+              {
+                "val": 5440.98,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "irn": "9c9e926c9c189a10b6b4c1df07a62d3482c8e66a0651e78ec7fa6a5e0318fc84",
+                "typ": "R",
+                "irngendate": "14-04-2023",
+                "inum": "MIG/23-24/519",
+                "rsn": "",
+                "dt": "14-04-2023",
+                "pos": "29",
+                "srctyp": "E-Invoice",
+                "items": [
+                  {
+                    "sgst": 0,
+                    "rt": 18,
+                    "num": 1,
+                    "txval": 4611,
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 829.98
+                  }
+                ]
+              }
+            ],
+            "trdnm": "MYND INTEGRATED SOLUTIONS PVT. LTD.",
+            "supfildt": "11-05-2023",
+            "supprd": "042023",
+            "ctin": "06AADCV1434H1ZK"
+          },
+          {
+            "inv": [
+              {
+                "val": 5621.81,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "irn": "de2cb464024cd297af434a97dfcb4fbe208be92e4736291ab1f1e219a7606c7f",
+                "typ": "R",
+                "irngendate": "27-04-2023",
+                "inum": "103961",
+                "rsn": "",
+                "dt": "25-04-2023",
+                "pos": "29",
+                "srctyp": "E-Invoice",
+                "items": [
+                  {
+                    "sgst": 428.79,
+                    "rt": 18,
+                    "num": 1,
+                    "txval": 4764.25,
+                    "cgst": 428.79,
+                    "cess": 0,
+                    "igst": 0
+                  }
+                ]
+              },
+              {
+                "val": 64994.4,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "irn": "4b7363782c69766d00623f152c837f4f5091b20112d5be88d6af35bd8024306b",
+                "typ": "R",
+                "irngendate": "27-04-2023",
+                "inum": "103979",
+                "rsn": "",
+                "dt": "25-04-2023",
+                "pos": "29",
+                "srctyp": "E-Invoice",
+                "items": [
+                  {
+                    "sgst": 4957.2,
+                    "rt": 18,
+                    "num": 1,
+                    "txval": 55080,
+                    "cgst": 4957.2,
+                    "cess": 0,
+                    "igst": 0
+                  }
+                ]
+              }
+            ],
+            "trdnm": "Viceroy Bangalore Hotels Private Limited",
+            "supfildt": "10-05-2023",
+            "supprd": "042023",
+            "ctin": "29AADCV2102L2ZB"
+          },
+          {
+            "inv": [
+              {
+                "val": 2729.96,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "irn": "f83ee498d5d784d3f29b6ddaf0e3db02a6aad91f6a70abc45526e7fee51c8922",
+                "typ": "R",
+                "irngendate": "16-04-2023",
+                "inum": "A74NK5TPVFKA4X21",
+                "rsn": "",
+                "dt": "15-04-2023",
+                "pos": "29",
+                "srctyp": "E-Invoice",
+                "items": [
+                  {
+                    "sgst": 208.02,
+                    "rt": 18,
+                    "num": 1,
+                    "txval": 2311.33,
+                    "cgst": 208.02,
+                    "igst": 0
+                  }
+                ]
+              },
+              {
+                "dt": "30-04-2023",
+                "val": 5073.74,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "pos": "29",
+                "typ": "R",
+                "inum": "A74NK5TPVFKA4Y21",
+                "rsn": "",
+                "items": [
+                  {
+                    "sgst": 386.98,
+                    "rt": 18,
+                    "num": 1,
+                    "txval": 4299.78,
+                    "cgst": 386.98,
+                    "cess": 0,
+                    "igst": 0
+                  }
+                ]
+              },
+              {
+                "dt": "15-04-2023",
+                "val": 9007.95,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "pos": "29",
+                "typ": "R",
+                "inum": "B74NK5TPVFKAB4X2",
+                "rsn": "",
+                "items": [
+                  {
+                    "sgst": 214.47,
+                    "rt": 5,
+                    "num": 1,
+                    "txval": 8579.01,
+                    "cgst": 214.47,
+                    "cess": 0,
+                    "igst": 0
+                  }
+                ]
+              },
+              {
+                "dt": "30-04-2023",
+                "val": 17591.28,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "pos": "29",
+                "typ": "R",
+                "inum": "B74NK5TPVFKAB4Y2",
+                "rsn": "",
+                "items": [
+                  {
+                    "sgst": 418.83,
+                    "rt": 5,
+                    "num": 1,
+                    "txval": 16753.62,
+                    "cgst": 418.83,
+                    "cess": 0,
+                    "igst": 0
+                  }
+                ]
+              }
+            ],
+            "trdnm": "ANI TECHNOLOGIES PRIVATE LIMITED",
+            "supfildt": "11-05-2023",
+            "supprd": "042023",
+            "ctin": "29AAJCA1389G1ZF"
+          },
+          {
+            "inv": [
+              {
+                "val": 837250.12,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "irn": "12e6c3144cbc6acc61840b9828f3737209a0412a66eb92d8f95632510485afbb",
+                "typ": "R",
+                "irngendate": "20-03-2023",
+                "inum": "INOBLRFEB23",
+                "rsn": "",
+                "dt": "20-03-2023",
+                "pos": "29",
+                "srctyp": "E-Invoice",
+                "items": [
+                  {
+                    "sgst": 0,
+                    "rt": 18,
+                    "num": 1,
+                    "txval": 709534,
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 127716.12
+                  }
+                ]
+              },
+              {
+                "val": 812092.52,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "irn": "f9ec665b4c625b1db9fd21ea733ba25aabc08eb34d46c80325b976a0e796d838",
+                "typ": "R",
+                "irngendate": "13-04-2023",
+                "inum": "INOBLRMAR23",
+                "rsn": "",
+                "dt": "31-03-2023",
+                "pos": "29",
+                "srctyp": "E-Invoice",
+                "items": [
+                  {
+                    "sgst": 0,
+                    "rt": 18,
+                    "num": 1,
+                    "txval": 688214,
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 123878.52
+                  }
+                ]
+              }
+            ],
+            "trdnm": "MCKINSEY KNOWLEDGE CENTRE INDIA PRIVATE LIMITED",
+            "supfildt": "18-04-2023",
+            "supprd": "032023",
+            "ctin": "06AACCM2356G1ZP"
+          },
+          {
+            "inv": [
+              {
+                "dt": "17-04-2023",
+                "val": 7400,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "pos": "29",
+                "typ": "R",
+                "inum": "MKC/MAR/6467",
+                "rsn": "",
+                "items": [
+                  {
+                    "sgst": 0,
+                    "rt": 0,
+                    "num": 1,
+                    "txval": 7400,
+                    "cgst": 0
+                  }
+                ]
+              }
+            ],
+            "trdnm": "Royal Cabs",
+            "supfildt": "11-05-2023",
+            "supprd": "042023",
+            "ctin": "29AASFR0366A2Z3"
+          },
+          {
+            "inv": [
+              {
+                "dt": "18-04-2023",
+                "val": 23600,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "pos": "29",
+                "typ": "R",
+                "inum": "SGCO-23025",
+                "rsn": "",
+                "items": [
+                  {
+                    "sgst": 0,
+                    "rt": 18,
+                    "num": 1,
+                    "txval": 20000,
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 3600
+                  }
+                ]
+              }
+            ],
+            "trdnm": "SATYA GANDHI AND CO",
+            "supfildt": "13-05-2023",
+            "supprd": "042023",
+            "ctin": "27ADTPG8774B1Z5"
+          },
+          {
+            "inv": [
+              {
+                "val": 88554,
+                "rev": "N",
+                "itcavl": "Y",
+                "diffprcnt": 1,
+                "irn": "c2af2c1123acd5ffc9fd5716ef9428ca50b4c2bb91c6ebf02e5acd55929fce43",
+                "typ": "R",
+                "irngendate": "27-04-2023",
+                "inum": "IC/H/23-24/0003",
+                "rsn": "",
+                "dt": "27-04-2023",
+                "pos": "29",
+                "srctyp": "E-Invoice",
+                "items": [
+                  {
+                    "sgst": 0,
+                    "rt": 18,
+                    "num": 1,
+                    "txval": 75045.97,
+                    "cgst": 0,
+                    "cess": 0,
+                    "igst": 13508.27
+                  }
+                ]
+              }
+            ],
+            "trdnm": "MCKINSEY & COMPANY INC.",
+            "supfildt": "10-05-2023",
+            "supprd": "042023",
+            "ctin": "06AAACM8361R1ZV"
+          }
+        ]
+      },
+      "gendt": "14-05-2023",
+      "gstin": "29AAACM8361R1ZN",
+      "version": "1.0",
+      "cpsumm": {
+        "b2b": [
+          {
+            "sgst": 0,
+            "ttldocs": 1,
+            "trdnm": "MCKINSEY & COMPANY INC.",
+            "supprd": "042023",
+            "supfildt": "10-05-2023",
+            "txval": 75045.97,
+            "ctin": "06AAACM8361R1ZV",
+            "cgst": 0,
+            "cess": 0,
+            "igst": 13508.27
+          },
+          {
+            "sgst": 0,
+            "ttldocs": 2,
+            "trdnm": "MCKINSEY KNOWLEDGE CENTRE INDIA PRIVATE LIMITED",
+            "supprd": "032023",
+            "supfildt": "18-04-2023",
+            "txval": 1397748,
+            "ctin": "06AACCM2356G1ZP",
+            "cgst": 0,
+            "cess": 0,
+            "igst": 251594.64
+          },
+          {
+            "sgst": 0,
+            "ttldocs": 1,
+            "trdnm": "MYND INTEGRATED SOLUTIONS PVT. LTD.",
+            "supprd": "042023",
+            "supfildt": "11-05-2023",
+            "txval": 4611,
+            "ctin": "06AADCV1434H1ZK",
+            "cgst": 0,
+            "cess": 0,
+            "igst": 829.98
+          },
+          {
+            "sgst": 0,
+            "ttldocs": 1,
+            "trdnm": "SATYA GANDHI AND CO",
+            "supprd": "042023",
+            "supfildt": "13-05-2023",
+            "txval": 20000,
+            "ctin": "27ADTPG8774B1Z5",
+            "cgst": 0,
+            "cess": 0,
+            "igst": 3600
+          },
+          {
+            "sgst": 3900.55,
+            "ttldocs": 15,
+            "trdnm": "ORIX AUTO INFRASTRUCTURE SERVICES LIMITED",
+            "supprd": "042023",
+            "supfildt": "11-05-2023",
+            "txval": 65008.85,
+            "ctin": "29AAACO2563P1ZX",
+            "cgst": 3900.55,
+            "cess": 0,
+            "igst": 0
+          },
+          {
+            "sgst": 119.66,
+            "ttldocs": 1,
+            "trdnm": "BERGGRUEN CAR RENTALS PRIVATE LIMITED",
+            "supprd": "042023",
+            "supfildt": "11-05-2023",
+            "txval": 4786,
+            "ctin": "29AADCB1335P1ZF",
+            "cgst": 119.66,
+            "cess": 0,
+            "igst": 0
+          },
+          {
+            "sgst": 5385.99,
+            "ttldocs": 2,
+            "trdnm": "Viceroy Bangalore Hotels Private Limited",
+            "supprd": "042023",
+            "supfildt": "10-05-2023",
+            "txval": 59844.25,
+            "ctin": "29AADCV2102L2ZB",
+            "cgst": 5385.99,
+            "cess": 0,
+            "igst": 0
+          },
+          {
+            "sgst": 1228.3,
+            "ttldocs": 4,
+            "trdnm": "ANI TECHNOLOGIES PRIVATE LIMITED",
+            "supprd": "042023",
+            "supfildt": "11-05-2023",
+            "txval": 31943.74,
+            "ctin": "29AAJCA1389G1ZF",
+            "cgst": 1228.3,
+            "cess": 0,
+            "igst": 0
+          },
+          {
+            "sgst": 0,
+            "ttldocs": 1,
+            "trdnm": "Royal Cabs",
+            "supprd": "042023",
+            "supfildt": "11-05-2023",
+            "txval": 7400,
+            "ctin": "29AASFR0366A2Z3",
+            "cgst": 0,
+            "cess": 0,
+            "igst": 0
+          },
+          {
+            "sgst": 0,
+            "ttldocs": 1,
+            "trdnm": "ANI TECHNOLOGIES PRIVATE LIMITED",
+            "supprd": "042023",
+            "supfildt": "11-05-2023",
+            "txval": 162.62,
+            "ctin": "37AAJCA1389G1ZI",
+            "cgst": 0,
+            "cess": 0,
+            "igst": 8.13
+          }
+        ]
+      }
+    },
+    "chksum": "db75f619d461513c61815f7701057a7afbe9018c7b64f9a614d70edaf4128ca5",
+    "file_id": "0daf5edc-d9f3-4d88-9e85-b0879825b5be"
+  }
